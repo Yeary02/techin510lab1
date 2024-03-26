@@ -38,3 +38,18 @@ st.write("""
 - **Position:** GIX student
   - Being a student.
 """)
+
+# Hobbies and Interests section
+st.markdown("## Hobbies and Interests")
+st.write("""
+Hiking, 
+Sleeping
+""")
+
+# Interesting Projects section
+st.markdown("## Interesting Projects")
+st.write("""
+- [Project 1](https://www.google.com) - My 1st project.
+- [Project 2](https://www.google.com) - My 2nd project.
+- [Project 3](https://www.google.com) - My 3rd project.
+""")
