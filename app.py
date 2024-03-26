@@ -17,12 +17,13 @@ with col2:
     # Yeary Yuan (She/Her)
     
     - **Education:** Current MSTI student
+    - **Education:** Current MSTI student
     """)
 
 # About section
 st.markdown("## About")
 st.write("""
-a brief paragraph about yourself, your professional interests, and what you're passionate about.
+I'm Yeary Yuan, a Master of Science in Technology Innovation (MSTI) student and a technology enthusiast with a strong interest in Generative AI (GenAI). My academic journey and passion for tech innovation drive me to explore the potential of AI in revolutionizing digital interaction and creativity. Committed to bridging the gap between innovative technology and practical application, I continuously seek out new trends and challenges in the tech world, aiming to make a significant impact on society through technology.
 """)
 
 # Education section
