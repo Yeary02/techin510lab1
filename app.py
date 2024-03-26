@@ -17,7 +17,7 @@ with col2:
     # Yeary Yuan (She/Her)
     
     - **Education:** Current MSTI student
-    - **Education:** Current MSTI student
+    - **Research Interest:** GenAI
     """)
 
 # About section
