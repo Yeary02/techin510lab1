@@ -24,5 +24,5 @@ pip install -r requirements.txt
 
 ## Questions / Uncertainties
 
-- What if I want to make the profile picture round?
-- How to use a two column layout?
+- What are some other ways I can use streamlit to create a profile page?
+- When should I use Markdown and when should I use HTML?
